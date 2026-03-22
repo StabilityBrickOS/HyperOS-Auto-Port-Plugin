@@ -1,0 +1,5 @@
+    <action>
+        <title>Авто_Портировщик_прошивки_HyperOS</title>
+        <summary>Скрипт_по_автопортированию_HyperOS/miui</summary>
+        <set>$START_DIR/module/stability/hyperos_autoport.sh</set>
+    </action>

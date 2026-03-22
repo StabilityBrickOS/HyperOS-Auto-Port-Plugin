@@ -24,7 +24,7 @@ The script performs the following operations automatically:
 
 Before running this script, you need to:
 
-1. **Download and install DNA Tools**
+1. **Download and install [DNA Tools](https://github.com/StabilityBrickOS/DNA-Android)**
 2. **Create two projects in DNA Tools:**
    - **stok** - For your stock ROM
    - **port** - For the ROM you're porting
@@ -135,6 +135,6 @@ Created for the HyperOS porting community. Don't forget to credit the author if 
 
 ---
 
-**Version:** 1.0  
+**Version:** 1.1
 **Last Updated:** February 2026  
 **Compatibility:** DNA Tools
