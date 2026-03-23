@@ -30,7 +30,7 @@ Before running this script, you need to:
    - **port** - For the ROM you're porting
 
 3. **Unpack required partitions:**
-   - In **stok** project: Unpack `system_ext` partition only
+   - In **stok** project: Unpack `system_ext` , `product` partitions
    - In **port** project: Unpack `system`, `system_ext`, `product`, and `mi_ext` partitions
 
 ## How to Use
